@@ -1,0 +1,6 @@
+build/
+dist/
+*.png
+!Assets/icon.png
+shot.ps1
+*.zip
