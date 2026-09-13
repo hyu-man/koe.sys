@@ -26,3 +26,4 @@ GPLv3。詳細は [LICENSE](LICENSE) と [THIRD_PARTY.txt](THIRD_PARTY.txt)。
 ---
 
 ひゅーまん / ω （vicugna） — 規則の部屋: https://hyu-man.com/
+不具合・質問: omega@vicugna.tech
