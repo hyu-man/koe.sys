@@ -3,7 +3,7 @@
 こえも、規則がきめる。
 
 ボイスチェンジャー。つまみは「たかさ」「かたち」「mix」の三つ、遅延は実測表示。
-Windows スタンドアロン。配布パッケージは [BOOTH](https://vicugna.booth.pm/) にあります。
+Windows スタンドアロン。配布パッケージは [BOOTH](https://vicugna.booth.pm/items/8836465) にあります。
 
 ![koe.sys](Assets/icon.png)
 
